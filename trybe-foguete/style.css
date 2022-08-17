@@ -1,0 +1,18 @@
+h1, p {
+    text-align: center;
+}
+
+li:hover {
+    background-color: rebeccapurple;
+}
+li:checked {
+    color: white;
+}
+
+a:active {
+    font-size: 50px;
+}
+
+li {
+    list-style: none;
+}
